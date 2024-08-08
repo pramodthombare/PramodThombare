@@ -27,6 +27,7 @@ A seasoned DevOps Engineer with nearly a decade of hands-on experience transform
 ### 🔗 Connect with Me
 
 - **LinkedIn:** [PramodThombare](https://www.linkedin.com/in/pramod-thombare-a31596116/)
+- **Gmail:** (pramodthombare1803@gmail.com)
 - **Twitter:** [Pramod](https://twitter.com/PramodThom14095)
 
 ---
