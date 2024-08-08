@@ -1,48 +1,42 @@
-# 💻 DevOps Engineer | 9 Years of Experience 🚀
+# 🛠️ DevOps Virtuoso | 9 Years of Engineering Excellence 🚀
 
-### Hi there! I'm [Pramod Thombare] 👋
+### Hello, I'm [Pramod Thombare] 👋
 
-Passionate DevOps Engineer with a deep understanding of automating and optimizing mission-critical deployments in the cloud, leveraging configuration management, CI/CD, and DevOps processes. With 9 years of experience, I have honed my skills in scripting, system administration, cloud infrastructure, and much more.
-
----
-
-### 🛠️ Technologies & Tools
-
-- **Cloud:** AWS, Azure, GCP
-- **Containers:** Docker, Kubernetes
-- **CI/CD:** Jenkins, GitLab CI, GitHub Actions
-- **Infrastructure as Code:** Terraform, CloudFormation, Ansible
-- **Version Control:** Git, Bitbucket
-- **Scripting:** Bash, Python, Groovy
-- **Monitoring & Logging:** Prometheus, Grafana, ELK Stack
-- **Configuration Management:** Ansible, Puppet, Chef
-- **Others:** Nginx, Apache, MySQL, PostgreSQL
+A seasoned DevOps Engineer with nearly a decade of hands-on experience transforming ideas into scalable, resilient, and secure infrastructures. My passion lies in the intersection of automation, cloud technology, and continuous improvement. Whether it’s crafting robust CI/CD pipelines, architecting cloud solutions, or diving deep into Kubernetes, I thrive on turning complex challenges into streamlined, efficient operations.
 
 ---
 
-### 🏆 What I Do
+### 🌟 Core Expertise
 
-- **CI/CD Pipelines:** Automating build, test, and deployment processes to enhance development efficiency and reliability.
-- **Infrastructure as Code:** Designing and maintaining scalable, secure, and cost-effective cloud infrastructure.
-- **Monitoring & Performance Tuning:** Ensuring high availability and performance of applications through proactive monitoring and optimization.
-- **Security:** Implementing security best practices to protect applications and infrastructure from vulnerabilities.
-- **Collaboration:** Working closely with development teams to foster a culture of continuous improvement and collaboration.
-
----
-
-### 📈 Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=pramodthombare&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pramodthombare&layout=compact&theme=radical)
+- **Cloud Mastery:** AWS, Azure, GCP – building, managing, and optimizing cloud infrastructure.
+- **Containerization & Orchestration:** Docker & Kubernetes – deploying scalable, containerized applications.
+- **CI/CD Automation:** Jenkins, GitLab CI, GitHub Actions – streamlining the software delivery pipeline.
+- **Infrastructure as Code:** Terraform, Ansible – defining and provisioning infrastructure through code.
+- **Monitoring & Observability:** Prometheus, Grafana, ELK Stack – ensuring system health and performance.
 
 ---
 
-### 💬 Let's Connect!
+### 🌍 What I’m Working On
+
+- **Kubernetes Projects:** Expanding my Kubernetes expertise by contributing to open-source projects and deploying multi-cluster environments.
+- **Cloud-Native Solutions:** Building cloud-native applications with microservices architectures.
+- **DevOps Advocacy:** Sharing knowledge and best practices through talks, blogs, and community contributions.
+
+---
+
+### 🔗 Connect with Me
 
 - **LinkedIn:** [PramodThombare](https://www.linkedin.com/in/pramod-thombare-a31596116/)
 - **Twitter:** [Pramod](https://twitter.com/PramodThom14095)
 
-
 ---
 
-⭐️ From [PramodThombare](https://github.com/pramodthombare)
+
+### 🛠️ Tools & Technologies
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
