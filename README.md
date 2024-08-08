@@ -6,7 +6,7 @@ A seasoned DevOps Engineer with nearly a decade of hands-on experience transform
 
 ---
 
-### 🌟 Core Expertise
+### 🌟 Core Expertise & Certifications
 
 - **Cloud Mastery:** AWS, Azure, GCP – building, managing, and optimizing cloud infrastructure.
 - **Containerization & Orchestration:** Docker & Kubernetes – deploying scalable, containerized applications.
@@ -14,6 +14,10 @@ A seasoned DevOps Engineer with nearly a decade of hands-on experience transform
 - **Infrastructure as Code:** Terraform, Ansible – defining and provisioning infrastructure through code.
 - **Monitoring & Observability:** Prometheus, Grafana, ELK Stack – ensuring system health and performance.
 
+**Certifications:**
+- 🏅 **AWS Certified SysOps Administrator**
+- 🏅 **Red Hat Certified Engineer (RHEL)**
+- 🏅 **ITIL Foundation Certificate in IT Service Management**
 ---
 
 ### 🌍 What I’m Working On
