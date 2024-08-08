@@ -1,15 +1,48 @@
-<h1 align="center">Hi 👋, I'm Pramod Thombare</h1>
-<h3 align="center">A passionate DevOps Engineer from India</h3>
+# 💻 DevOps Engineer | 9 Years of Experience 🚀
 
-- 📫 How to reach me **pramodthombare1803@gmail.com**
+### Hi there! I'm [Pramod Thombare] 👋
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/pramod-thombare-a31596116/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pramod-thombare-a31596116/" height="30" width="40" /></a>
-</p>
+Passionate DevOps Engineer with a deep understanding of automating and optimizing mission-critical deployments in the cloud, leveraging configuration management, CI/CD, and DevOps processes. With 9 years of experience, I have honed my skills in scripting, system administration, cloud infrastructure, and much more.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
+---
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/PramodThombare"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="PramodThombare" /></a><a href="https://ko-fi.com/PramodThombare"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="PramodThombare" /></a></p><br><br>
+### 🛠️ Technologies & Tools
+
+- **Cloud:** AWS, Azure, GCP
+- **Containers:** Docker, Kubernetes
+- **CI/CD:** Jenkins, GitLab CI, GitHub Actions
+- **Infrastructure as Code:** Terraform, CloudFormation, Ansible
+- **Version Control:** Git, Bitbucket
+- **Scripting:** Bash, Python, Groovy
+- **Monitoring & Logging:** Prometheus, Grafana, ELK Stack
+- **Configuration Management:** Ansible, Puppet, Chef
+- **Others:** Nginx, Apache, MySQL, PostgreSQL
+
+---
+
+### 🏆 What I Do
+
+- **CI/CD Pipelines:** Automating build, test, and deployment processes to enhance development efficiency and reliability.
+- **Infrastructure as Code:** Designing and maintaining scalable, secure, and cost-effective cloud infrastructure.
+- **Monitoring & Performance Tuning:** Ensuring high availability and performance of applications through proactive monitoring and optimization.
+- **Security:** Implementing security best practices to protect applications and infrastructure from vulnerabilities.
+- **Collaboration:** Working closely with development teams to foster a culture of continuous improvement and collaboration.
+
+---
+
+### 📈 Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=pramodthombare&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pramodthombare&layout=compact&theme=radical)
+
+---
+
+### 💬 Let's Connect!
+
+- **LinkedIn:** [PramodThombare](https://www.linkedin.com/in/pramod-thombare-a31596116/)
+- **Twitter:** [Pramod](https://twitter.com/PramodThom14095)
+
+
+---
+
+⭐️ From [PramodThombare](https://github.com/pramodthombare)
